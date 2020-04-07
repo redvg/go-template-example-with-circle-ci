@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/packtci/go-template-example-with-circle-ci.svg?style=svg)](https://circleci.com/gh/packtci/go-template-example-with-circle-ci)
+[![CircleCI](https://circleci.com/gh/redvg/go-template-example-with-circle-ci.svg?style=svg)](https://circleci.com/gh/redvg/go-template-example-with-circle-ci)
 
 # Repository Details
 
